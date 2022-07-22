@@ -1,0 +1,45 @@
+552e430f9a79475dd957f8b3 - Деньги (1/0)
+5409f11ce063da9c8b588a12 - Политика
+5e54e2089a7947f63a801742 - Авто (1/0)
+5433e5decbb20f277b20eca9 - Общество
+5e54e22a9a7947f560081ea2 - Город (1/0)
+5409f11ce063da9c8b588a13 - Экономика
+5409f11ce063da9c8b588a18 - Финансы
+540d5eafcbb20f2524fc0509 - Бизнес
+540d5ecacbb20f2524fc050a - Технологии и медиа
+
+0.6500538840212208 | 0.668291 | без title | submission_2022-07-05_15-08-08.csv
+0.5894045708596107 |  | title tf-idf 1-1 | 
+0.6715578395107358 |  | title count_vec 1-1 min_df=1 | 
+0.6880081593059306 |  | title count_vec 1-1 min_df=2 | 
+0.6772947919535888 |  | title count_vec 1-1 min_df=3 | 
+0.6803788889209714 |  | title count_vec 1-1 min_df=4 | 
+0.6687036278990585 |  | title count_vec 1-1 min_df=5 | 
+0.6018388460435050 |  | title count_vec 1-2 min_df=2 | 
+0.6590548521732474 |  | title count_vec 1-2 min_df=3 | 
+0.6862471286756623 | 0.671045 | title count_vec 1-2 min_df=4 | 
+0.6811677339261304 |  | title count_vec 1-2 min_df=5 | 
+0.6057645806154932 |  | title count_vec 1-3 min_df=2 | 
+0.6662184001633804 |  | title count_vec 1-3 min_df=3 | 
+0.6847524900286968 |  | title count_vec 1-3 min_df=4 | 
+0.6825557696696480 |  | title count_vec 1-3 min_df=5 | 
+0.599000534532889 |  | title count_vec 1-4 min_df=2 | 
+0.6745621097575177 |  | title count_vec 1-4 min_df=3 | 
+0.68286069792927 |  | title count_vec 1-4 min_df=4 | 
+0.6777767480343859 |  | title count_vec 1-4 min_df=5 | 
+0.6683978268743127 |  | title count_vec 1-4 min_df=5 |
+-------------------------------------------------------
+0.7007896985068468 |  | title count_vec 1-2 min_df=4 | submission_2022-07-06_19-02-21.csv
+-----------------------------------------------------------------------------------------
+catboost
+0.7407800401374594 | 0.737229 | count_vec 1-2 min_df=4 | submission_2022-07-13_20-47-40.csv
+0.7197025939056700 | 0.754399 | count_vec 1-2 min_df=4 log | submission_2022-07-14_14-14-43.csv
+| 0.748338 | tfidf 1-2 min_df=4 log | submission_2022-07-14_18-15-18.csv
+0.7126447196968589 | 0.757240 | count_vec 1-1 min_df=2 log | submission_2022-07-14_21-14-54.csv
+0.7249204104441265 | 0.764572 | count_vec 1-1 min_df=2 log v5 | submission_2022-07-17_20-01-01.csv
+ | 0.769432 | v6.1 | submission_2022_07_19_16_45_15.csv
+0.7254120571350094 | 0.767255 | v6.2 | submission_2022-07-19_20-36-38.csv
+ | 0.771347 | v6.1 views log, depth frp norm | submission_2022_07_20_17_17_04.csv
+ | 0.772283 | v6.1 views 0log/mean, depth frp norm | submission_2022-07-20_18-23-16.csv
+ | 0.769626 | v6.1 views 0log, depth frp norm | submission_2022-07-20_19-38-38.csv
+ | 0.772877 | v6.1 views 0log/mean, depth frp mean | submission_2022-07-20_21-57-31.csv
