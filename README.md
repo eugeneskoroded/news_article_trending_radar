@@ -60,3 +60,4 @@ https://drive.google.com/drive/folders/14KFjaAN5G-BqVIQgrBMzMsqN4Lk5bxP8?usp=sha
 - optuna MIT License https://github.com/optuna/optuna/blob/master/LICENSE
 - tqdm MIT License https://github.com/tqdm/tqdm/blob/master/LICENCE
 - pickle MIT License https://github.com/jdavisp3/pickle/blob/master/LICENSE
+- requests Apache License 2.0 https://github.com/psf/requests/blob/main/LICENSE
