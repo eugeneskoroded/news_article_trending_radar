@@ -49,14 +49,14 @@ $result = 0.4*R2_{views}+0.3*R2_{full\_ reads\_percent}+0.3*R2_{depth}$
 https://drive.google.com/drive/folders/14KFjaAN5G-BqVIQgrBMzMsqN4Lk5bxP8?usp=sharing
 
 # Лицензии
-Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
-MIT License https://opensource.org/licenses/mit-license.php
-python-beautifulsoup MIT License https://github.com/akalongman/python-beautifulsoup/blob/master/LICENSE
-nltk Apache License 2.0 https://github.com/nltk/nltk/blob/develop/LICENSE.txt
-ruts MIT License https://github.com/SergeyShk/ruTS/blob/master/LICENSE.txt
-pymorphy2 MIT License https://pypi.org/project/pymorphy2/
-spacy MIT License https://github.com/explosion/spaCy/blob/master/LICENSE
-optuna MIT License https://github.com/optuna/optuna/blob/master/LICENSE
-catboost Apache License 2.0 https://github.com/catboost/catboost/blob/master/LICENSE
-tqdm MIT License https://github.com/tqdm/tqdm/blob/master/LICENCE
-pickle MIT License https://github.com/jdavisp3/pickle/blob/master/LICENSE
+- Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+- MIT License https://opensource.org/licenses/mit-license.php
+- python-beautifulsoup MIT License https://github.com/akalongman/python-beautifulsoup/blob/master/LICENSE
+- nltk Apache License 2.0 https://github.com/nltk/nltk/blob/develop/LICENSE.txt
+- ruts MIT License https://github.com/SergeyShk/ruTS/blob/master/LICENSE.txt
+- pymorphy2 MIT License https://pypi.org/project/pymorphy2/
+- spacy MIT License https://github.com/explosion/spaCy/blob/master/LICENSE
+- optuna MIT License https://github.com/optuna/optuna/blob/master/LICENSE
+- catboost Apache License 2.0 https://github.com/catboost/catboost/blob/master/LICENSE
+- tqdm MIT License https://github.com/tqdm/tqdm/blob/master/LICENCE
+- pickle MIT License https://github.com/jdavisp3/pickle/blob/master/LICENSE
